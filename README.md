@@ -1,8 +1,8 @@
 ### Salut!
 
-![Les Stats GitHub de GoudronViande24](https://github-readme-stats.vercel.app/api?username=GoudronViande24&theme=dark)
+![Les Stats GitHub de GoudronViande24](https://github-readme-stats.vercel.app/api?username=GoudronViande24&theme=dark&custom_title=Stats)
 
-[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoudronViande24&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoudronViande24&theme=dark&custom_title=Langages)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Je travaille actuellement sur Artivain et des projets autours
 - 🌱 J'apprends actuellement à travailler avec Discord.js v13 et ses nouveautés
