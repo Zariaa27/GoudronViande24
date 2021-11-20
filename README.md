@@ -1,6 +1,6 @@
 ### Salut!
 
-![Les Stats GitHub de GoudronViande24](https://github-readme-stats.vercel.app/api?username=GoudronViande24&theme=dark&custom_title=Stats&show_icons=true)
+![Les Stats GitHub de GoudronViande24](https://github-readme-stats.vercel.app/api?username=GoudronViande24&theme=dark&custom_title=Stats&show_icons=true&count_private=true)
 
 [![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoudronViande24&theme=dark&custom_title=Langages&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
