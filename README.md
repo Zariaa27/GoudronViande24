@@ -1,10 +1,12 @@
 ### Salut!
 
-![Les Stats GitHub de GoudronViande24](https://github-readme-stats.vercel.app/api?username=GoudronViande24&theme=dark&custom_title=Stats&show_icons=true&count_private=true)
+| Trophés | Streaks |
+| --- | --- |
+| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoudronViande24&theme=dark&hide_title=true&show_icons=true&layout=compact) | ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=GoudronViande24&theme=dark&date_format=M%20j%5B%2C%20Y%5D) |
 
-![Trophés](https://github-profile-trophy.vercel.app/?username=GoudronViande24&theme=onedark)
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoudronViande24&theme=dark&custom_title=Langages&show_icons=true)
+| GitHub stats | Langages les plus utilisés |
+| --- | --- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=GoudronViande24&theme=dark&show_icons=true&count_private=true&hide_title=true) | ![Trophees](https://github-profile-trophy.vercel.app/?username=GoudronViande24&theme=onedark&row=2&column=3) |
 
 - 🔭 Je travaille actuellement sur Artivain et des projets autours
 - 🌱 J'apprends actuellement à travailler avec Discord.js v13 et ses nouveautés
