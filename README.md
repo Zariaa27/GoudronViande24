@@ -29,3 +29,6 @@
 ![Snake](https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=GoudronViande24&color=06476d&style=flat-square&label=Views%20/%20Vues)
+
+
+love you zariaa
